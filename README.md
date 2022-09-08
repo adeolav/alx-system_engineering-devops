@@ -1,5 +1,8 @@
 
 # ALX SYSTEM ENGINEERING - DEVOPS
+
+<img alt="coding" width="784" height="350" src="https://github.com/Rachamv/alx-system_engineering-devops/blob/master/new.png" />
+
 This repository contains programs created for the _**ALX Software Engineering** Program's._ I am currently simultaneously, I will continued to strengthen and broaden my knowledge of C and shell scripting. The following is a specific list of projects :
 
 - [0x00. Shell - Shell_Basics](https://github.com/Rachamv/alx-system_engineering-devops/tree/master/0x00-shell_basics)
